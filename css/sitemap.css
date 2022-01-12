@@ -21,5 +21,5 @@
 }
 
 #sitemap li{
-    list-style-image:url("img/blue_dot.gif");
+    list-style-image:url("../img/blue_dot.gif");
     margin-left:20px;
