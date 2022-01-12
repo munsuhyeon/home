@@ -1,0 +1,51 @@
+#main_page {
+         width:1000px;
+         margin:0 auto;
+        }
+        #customer {
+         width:300px;
+         height:130px;
+         float:left
+        }
+
+        #customer .more {
+         float:right;
+        }
+        #customer .title {
+         float:left;
+        }
+
+        #notice {
+         width:400px;
+         height:130px;
+         float:left
+        }
+        #notice .more {
+         float:right;
+        }
+        #notice .title {
+         margin-left:10px;
+         float:left;
+        }
+        #notice .subject {
+         margin-left:10px;
+         float:left;
+        }
+        #notice .date {
+         margin-right:5px;
+         float:right;
+        }
+
+        #notice ul {
+         color:#666666;
+        }
+        #notice li {
+         margin-top:5px;
+        }
+
+        #faq {
+         width:300px;
+         height:130px;
+         float:left
+        }
+        .clear
